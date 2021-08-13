@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/repository-name/static/css/main.7d8f57d4.chunk.css",
+    "main.js": "/repository-name/static/js/main.56a785cb.chunk.js",
+    "main.js.map": "/repository-name/static/js/main.56a785cb.chunk.js.map",
+    "runtime-main.js": "/repository-name/static/js/runtime-main.38f29f02.js",
+    "runtime-main.js.map": "/repository-name/static/js/runtime-main.38f29f02.js.map",
+    "static/js/2.c2141f2b.chunk.js": "/repository-name/static/js/2.c2141f2b.chunk.js",
+    "static/js/2.c2141f2b.chunk.js.map": "/repository-name/static/js/2.c2141f2b.chunk.js.map",
+    "index.html": "/repository-name/index.html",
+    "static/css/main.7d8f57d4.chunk.css.map": "/repository-name/static/css/main.7d8f57d4.chunk.css.map",
+    "static/js/2.c2141f2b.chunk.js.LICENSE.txt": "/repository-name/static/js/2.c2141f2b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/repository-name/static/media/EuclidCircularA-Light.29f6c14f.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38f29f02.js",
+    "static/js/2.c2141f2b.chunk.js",
+    "static/css/main.7d8f57d4.chunk.css",
+    "static/js/main.56a785cb.chunk.js"
+  ]
+}
