@@ -1,0 +1,55 @@
+
+@font-face {
+  font-family: 'EuclidCircularA-Light';
+  src: url('assets/fonts/EuclidCircularA-Light.ttf');
+}
+
+* {
+  font-family: 'EuclidCircularA-Light',Helvetica, Arial, sans-serif;
+}
+
+body {
+  padding: 60px;
+}
+
+input {
+  color: grey;
+  border: none;
+  border-radius: 3px;
+  box-shadow: 2px 2px 6px 2px rgba(0, 0, 0, 0.2);
+  font-size: 1.2rem;
+  outline: none;
+  padding: 10px;
+  width: 100%;
+}
+
+input::placeholder{
+  color: rgb(187, 178, 178);
+}
+
+.card-grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.card {
+  align-content: center;
+  /* border: 1px solid gray; */
+  border-radius: 6px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  margin-bottom: 10px;
+  margin-right: 10px;
+  overflow: hidden;
+}
+
+.card p {
+  color: rgb(201, 190, 190);
+  padding: 5px;
+  text-align: center;
+}
+
+.card img {
+  max-height: 170px;
+  width: 100%;
+}
